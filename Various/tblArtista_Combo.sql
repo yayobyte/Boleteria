@@ -1,0 +1,19 @@
+USE [DBEventos]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[tblArtista_Combo]
+
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	SELECT		ID AS Codigo, Nombre AS Nombre
+	FROM		tblArtista
+	ORDER BY	Nombre 
+END

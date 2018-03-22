@@ -1,0 +1,18 @@
+USE [DBEventos]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[tblCliente_Grid]
+
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	SELECT		ID, Nombre, Correo
+	FROM		tblCliente
+	
+END
+

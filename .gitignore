@@ -1,0 +1,10 @@
+*.cache
+*.cache
+*.cache
+WEB_Desarrollo_8_10/WEB_Desarrollo_8_10.v12.suo
+Comunes/libComunes/libComunes/CON_WEB_Desarrollo_8_10.xml
+*.pdb
+Comunes/libComunes/libComunes/bin/Debug/libComunes.dll
+*.cache
+*.suo
+WEB_Desarrollo_8_10/obj/Debug/WEB_Desarrollo_8_10.pdb

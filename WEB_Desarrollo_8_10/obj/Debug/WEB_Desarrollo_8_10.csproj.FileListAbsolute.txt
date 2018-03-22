@@ -1,0 +1,521 @@
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Owin.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Providers.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WebGrease.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\salan403\Documents\Desarrollo_8_10\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\SantiagoE\Desktop\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\salan403\Desktop\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\salan403\Desktop\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Providers.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WebGrease.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\Desarrollo de software compartida\Desarrollo_8_10 - compartida\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Owin.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Providers.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\WebGrease.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\SantiagoE\Desktop\Desarrollo\Desarrollo de Software_2015\WEB_Desarrollo_8_10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\EntityFramework.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Owin.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\System.Web.Providers.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\WebGrease.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\EntityFramework.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Owin.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\System.Web.Optimization.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\System.Web.Providers.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\WebGrease.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\libComunes.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\libComunes.pdb
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\salan403\Desktop\Desarrollo 8-10 - compartida\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\libComunes.dll
+C:\Users\docenteitm\Documents\Desarrollo 8-10\WEB_Desarrollo_8_10\bin\libComunes.pdb
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\libComunes.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\libComunes.pdb
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\docenteitm\Documents\Desarrollo_8-10\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libComunes.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libComunes.pdb
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+C:\Users\salak401\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libComunes.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\libComunes.pdb
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+D:\Documents\Visual Studio 2013\Projects\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll.config
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\WEB_Desarrollo_8_10.pdb
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Newtonsoft.Json.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\libComunes.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\libDesarrollo_8_10.pdb
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Web.Infrastructure.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\System.Web.Optimization.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Antlr3.Runtime.pdb
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\EntityFramework.SqlServer.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\libComunes.pdb
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Optimization.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\System.Web.Providers.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.dll
+D:\Mis Documentos\Desarrollos\ITM\Desarrollo de Software\final-project\WEB_Desarrollo_8_10\obj\Debug\WEB_Desarrollo_8_10.pdb

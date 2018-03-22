@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<VIAJES>
+  <DESTINO_DESCUENTO>
+    <PAIS>MEXICO</PAIS>
+    <PAIS>PANAMA</PAIS>
+  </DESTINO_DESCUENTO>
+  <DESCUENTO>
+    <Dia_Semana Porcentaje="40">Lunes</Dia_Semana>
+    <Dia_Semana Porcentaje="40">Martes</Dia_Semana>
+    <Dia_Semana Porcentaje="40">Miercoles</Dia_Semana>
+    <Dia_Semana Porcentaje="40">Jueves</Dia_Semana>
+    <Dia_Semana Porcentaje="30">Viernes</Dia_Semana>
+    <Dia_Semana Porcentaje="30">Sabado</Dia_Semana>
+    <Dia_Semana Porcentaje="30">Domingo</Dia_Semana>
+    <!--<Dia_Semana Porcentaje="30">Festivo</Dia_Semana>-->
+  </DESCUENTO>
+</VIAJES>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>libDesarrollo_8_10</RootNamespace>
+    <AssemblyName>libDesarrollo_8_10</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="libComunes, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Comunes\libComunes\libComunes\bin\Debug\libComunes.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDatos\clsCliente.cs" />
+    <Compile Include="BaseDatos\clsEmpleado.cs" />
+    <Compile Include="BaseDatos\clsFactura.cs" />
+    <Compile Include="BaseDatos\clsOperador.cs" />
+    <Compile Include="BaseDatos\clsServicio.cs" />
+    <Compile Include="BaseDatos\clsTipoServicio.cs" />
+    <Compile Include="Clases\clsImpresionLibro.cs" />
+    <Compile Include="Clases\clsInscripcion.cs" />
+    <Compile Include="Clases\clsRecargaMinutos.cs" />
+    <Compile Include="Clases\clsReparacionMoto.cs" />
+    <Compile Include="Clases\clsTiendaDeportiva.cs" />
+    <Compile Include="Eventos\clsArtista.cs" />
+    <Compile Include="Eventos\clsBoleto.cs" />
+    <Compile Include="Eventos\clsCategoriaProducto.cs" />
+    <Compile Include="Eventos\clsCliente.cs" />
+    <Compile Include="Eventos\clsEstablecimiento.cs" />
+    <Compile Include="Eventos\clsEvento.cs" />
+    <Compile Include="Eventos\clsNacionalidad.cs" />
+    <Compile Include="Eventos\clsProducto.cs" />
+    <Compile Include="Eventos\clsProveedor.cs" />
+    <Compile Include="Eventos\clsTipoArtista.cs" />
+    <Compile Include="Eventos\clsTipoBoleto.cs" />
+    <Compile Include="Eventos\clsTipoEvento.cs" />
+    <Compile Include="Eventos\clsTipoProveedor.cs" />
+    <Compile Include="Eventos\clsProveedorPorEvento.cs" />
+    <Compile Include="Eventos\clsVentaProveedor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reglas_Negocio\clsRN_DescuentoVenta.cs" />
+    <Compile Include="Reglas_Negocio\cls_RN_Minutos_Celular.cs" />
+    <Compile Include="Reglas_Negocio\cls_RN_SobrecargoVuelos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="XML\HojaVida.xml" />
+    <Content Include="XML\RN_Aerolinea.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XML\RN_Descuento_Tienda_Deportiva.xml" />
+    <Content Include="XML\RN_MinutosAdicionales.xml" />
+    <Content Include="XML\RN_XMLViajes.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

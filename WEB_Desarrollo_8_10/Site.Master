@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WEB_Desarrollo_8_10.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TicketApp</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">TicketApp</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/Boleto/Evento">Crear Evento</a></li>
+                        <li><a runat="server" href="~/Boleto/Boleto">Venta de Boletos</a></li>
+                        <li><a runat="server" href="~/Boleto/VentaProveedor">Compras</a></li>
+                        <li><a runat="server" href="~/Boleto/ProveedorPorEvento">Asignar Proveedor</a></li>
+                        <li><a runat="server" href="~/Boleto/Clientes">Crear Cliente</a></li>
+                        <li><a runat="server" href="~/Boleto/Maestros">Maestros</a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000"  StaticSubMenuIndent="10px">
+                    <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <DynamicMenuStyle BackColor="#FFFBD6" />
+                    <DynamicSelectedStyle BackColor="#FFCC66" />
+                    <Items>
+                        <asp:MenuItem Text="Clases Básicas" Value="Clases Básicas">
+                            <asp:MenuItem Text="Taller" Value="Tallerde" NavigateUrl="~/ClasesBasicas/Taller.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Editorial" Value="Editorial" NavigateUrl="~/ClasesBasicas/Editorial.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Inscripción Torneo" Value="Inscripción Torneo" NavigateUrl="~/ClasesBasicas/InscripcionTorneo.aspx"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/BaseDatos/Operador.aspx" Text="MinutoCelular" Value="MinutoCelular"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/BaseDatos/Operador.aspx" Text="minuto celular" Value="minuto celular"></asp:MenuItem>
+                    </Items>
+                    <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <StaticSelectedStyle BackColor="#FFCC66" />
+                </asp:Menu>
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p class="lead">&copy; Cristian Guti&eacute;rrez y Jimmy Orozco - 2015</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

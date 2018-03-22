@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_Desarrollo_8_10", "WEB_Desarrollo_8_10.csproj", "{1899B1F2-7488-426A-AD69-073E0CAEE838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libDesarrollo_8_10", "..\libDesarrollo_8_10\libDesarrollo_8_10\libDesarrollo_8_10.csproj", "{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libComunes", "..\Comunes\libComunes\libComunes\libComunes.csproj", "{65EF2264-E439-4E9D-BE04-83F08C0B9BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1899B1F2-7488-426A-AD69-073E0CAEE838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1899B1F2-7488-426A-AD69-073E0CAEE838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1899B1F2-7488-426A-AD69-073E0CAEE838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1899B1F2-7488-426A-AD69-073E0CAEE838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3080AF-E70E-4ACF-9E48-ABFE2B10A2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EF2264-E439-4E9D-BE04-83F08C0B9BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EF2264-E439-4E9D-BE04-83F08C0B9BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EF2264-E439-4E9D-BE04-83F08C0B9BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EF2264-E439-4E9D-BE04-83F08C0B9BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

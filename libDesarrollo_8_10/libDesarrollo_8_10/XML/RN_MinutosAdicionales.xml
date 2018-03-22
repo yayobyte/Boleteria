@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Minutos_Adicionales>
+  <Pico_y_Placa>
+    <Dia_Semana Digito1="0" Digito2="1">Lunes</Dia_Semana>
+    <Dia_Semana Digito1="6" Digito2="7">Martes</Dia_Semana>
+    <Dia_Semana Digito1="4" Digito2="5">Miercoles</Dia_Semana>
+    <Dia_Semana Digito1="3" Digito2="2">Jueves</Dia_Semana>
+    <Dia_Semana Digito1="8" Digito2="9">Viernes</Dia_Semana>
+  </Pico_y_Placa>
+  <Recarga>
+    <Valor_Recarga Minutos_Adicionales="25">
+      <Valor_Minimo>0</Valor_Minimo>
+      <Valor_Maximo>9999</Valor_Maximo>
+    </Valor_Recarga>
+    <Valor_Recarga Minutos_Adicionales="80">
+      <Valor_Minimo>10000</Valor_Minimo>
+      <Valor_Maximo>19999</Valor_Maximo>
+    </Valor_Recarga>
+    <Valor_Recarga Minutos_Adicionales="150">
+      <Valor_Minimo>20000</Valor_Minimo>
+      <Valor_Maximo>49999</Valor_Maximo>
+    </Valor_Recarga>
+    <Valor_Recarga Minutos_Adicionales="250">
+      <Valor_Minimo>50000</Valor_Minimo>
+      <Valor_Maximo>9999999999</Valor_Maximo>
+    </Valor_Recarga>
+  </Recarga>
+</Minutos_Adicionales>
